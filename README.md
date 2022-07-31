@@ -9,7 +9,9 @@ DataCleaning_NYdata.R
 
 ### Data Analysis
 DATA_QUERIES.sql
+
 DataExploration_NYdata.R
+
 DataExploration_Project.ipynb
 
 
